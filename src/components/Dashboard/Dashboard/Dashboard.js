@@ -20,7 +20,7 @@ const Dashboard = () => {
     console.log('dashboard')
 
     useEffect(() => {
-        fetch('http://localhost:1000/appointmentsByDate', {
+        fetch('https://intense-inlet-86529.herokuapp.com/appointmentsByDate', {
             method: 'POST',
             headers: { 'content-type': 'application/json' },
             body: JSON.stringify({ date: selectedDate, email: loggedInUser.email })

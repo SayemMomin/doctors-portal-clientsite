@@ -23,7 +23,7 @@ const AppointmentForm = ({ modalIsOpen, closeModal, appointmentOn, date }) => {
         data.date = date;
         data.created = new Date();
         
-        fetch('http://localhost:1000/addAppointment', {
+        fetch('https://intense-inlet-86529.herokuapp.com/addAppointment', {
             method: 'POST',
             headers: { 'content-type': 'application/json' },
             body: JSON.stringify(data)
