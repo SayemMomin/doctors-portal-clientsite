@@ -1,5 +1,14 @@
 ## Live - [Digital Agency](https://digital-agency-project.web.app).
 
+### Features
+•	Anyone can login which confirm firebase authentication
+•	Client can submit order and also will see his/her all orders
+•	All Information comeback from MongoDB where saved all clients data
+•	Client will see only his/her orders but admin can see all client's orders
+•	Every client also give their review and it will show in website
+•	Slide shows with React Animation
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
