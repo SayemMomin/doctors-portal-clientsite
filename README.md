@@ -9,7 +9,7 @@
 -	Slide shows with React Animation
 
 ### Technologies Uses: 
-JS, React, React Animation, Bootstrap, React-DatePicker. React Router. React Animation. React Slide. MongoDB, Firebase, Heroku.
+**JS, React, React Animation, Bootstrap, React-DatePicker. React Router. React Animation. React Slide. MongoDB, Firebase, Heroku**
 
 
 
