@@ -8,6 +8,10 @@
 -	Every client also give their review and it will show in website
 -	Slide shows with React Animation
 
+### Technologies Uses: 
+JS, React, React Animation, Bootstrap, React-DatePicker. React Router. React Animation. React Slide. MongoDB, Firebase, Heroku.
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
