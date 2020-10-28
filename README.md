@@ -1,17 +1,17 @@
-## Live - [Digital Agency](https://digital-agency-project.web.app).
+## Live - [Doctors Portal](https://doctors-portal-projects.web.app).
 
 ### Features
--	Anyone can login which confirm firebase authentication
--	Client can submit order and also will see his/her all orders
--	All Information comeback from MongoDB where saved all clients data
--	Client will see only his/her orders but admin can see all client's orders
--	Every client also give their review and it will show in website
--	Slide shows with React Animation
+-	Patient can see all type of health service and time available ehere used react date-picker
+-	They can take appointment within available time and those store on MongoDB
+-	All patient have to login that manage by firebase authentication
+-	Every patient will see his/her appointments but doctors can all appointments conditionally
+-	Appointment and admin panel link protected by Private Route.
+
 
 ### Technologies Uses: 
-**JS, React, React Animation, Bootstrap, React-DatePicker. React Router. React Animation. React Slide. MongoDB, Firebase, Heroku**
+**JS, React, Bootstrap, React-DatePicker. React Router, MongoDB, Firebase, Heroku.**
 
-### Server Site [Link](https://github.com/SayemMomin/digital--agency-serverSite).
+### Server Site [Link](https://github.com/SayemMomin/doctor-portal-serversite).
 
 
 
